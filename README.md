@@ -47,7 +47,7 @@ cat /var/lib/rancher/k3s/server/node-token
 ```
 输出结果：
 ```
-K105ea972e2d8ac1a0d07aa914399f5426ccc76cbfee014784a6b96be04a3f616e7::server:9a16639e03addec8ee029634dd7e40ea
+K105ea972e2d8ac1a0d07aa914399f5426ccc76cbfee014784a6b96be04a3f616e7::server:******
 ```
 
 准备Agent节点部署脚本：
